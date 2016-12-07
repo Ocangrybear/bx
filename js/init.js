@@ -90,6 +90,7 @@ window.onload = function(){
             })(i,left,top),rnd(0,500));
 
             setTimeout(function(){
+                //跳转
                 document.location.href = 'html/content.html';
             },700)
         }
