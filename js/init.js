@@ -90,7 +90,7 @@ window.onload = function(){
             })(i,left,top),rnd(0,500));
 
             setTimeout(function(){
-                document.location.href = 'C:/Users/admin/Desktop/bx/html/content.html';
+                document.location.href = 'C:../html/content.html';
             },700)
         }
 
